@@ -1,15 +1,15 @@
 import { ChainId, Token } from "@pancakeswap-libs/sdk";
 
 // BEP-20 addresses.
-export const CAKE = "0x87baea506c92af5fe975c1be325326dd2c48798e";
+export const CAKE = "0x4a162e9a102d2195c1c4bf3bd319ad25a895ccaf";
 export const WBNB = "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c";
 export const DEAD = "0x000000000000000000000000000000000000dEaD";
 
 // Contract addresses.
-export const CAKE_BNB_FARM = "0x85e94b4d7887088a0b646cdf5df39d6ef4d882f3";
-export const MASTERCHEF_CONTRACT = "0x3300db990915c5e7866bb2c4b9eea58c64a7bae4";
-export const LOTTERY_CONTRACT = "0x3C3f2049cc17C136a604bE23cF7E42745edf3b91";
-export const MULTICALL_CONTRACT = "0x1Ee38d535d541c55C9dae27B12edf090C608E6Fb";
+export const CAKE_BNB_FARM = "0xa3c81bbcbff337a9754816fb8559121332c4d9b4";
+export const MASTERCHEF_CONTRACT = "0xd69d858e32438a44fb5cba7a4619970fb0746654";
+export const LOTTERY_CONTRACT = "0x4ee3aed30e4bf5f3f63c4dada9f7840bfd96f058";
+export const MULTICALL_CONTRACT = "0xe0f85775db1716a8860f82fdc1ba304be3d963f2";
 
 // PancakeSwap SDK Token.
 export const CAKE_TOKEN = new Token(ChainId.MAINNET, CAKE, 18);
