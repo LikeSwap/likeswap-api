@@ -1,6 +1,7 @@
-# pancake-api
+# likeswap-api
 
-Set of endpoints utilities for PancakeSwap, based on Serverless.
+Set of endpoints utilities for LikeSwap, based on Serverless.
+[LikeSwap](https://likeswap.org)
 
 ## Dependencies
 
